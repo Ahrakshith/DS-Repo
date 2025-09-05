@@ -1,6 +1,8 @@
-PythonProject4.iml
-.idea/inspectionProfiles/Project_Default.xml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
+# PyCharm/IntelliJ project files
+.idea/
+
+# Virtual environment
+.venv/
+
+# Ignore .iml project files
+*.iml
